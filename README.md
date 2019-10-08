@@ -1,5 +1,5 @@
 # sublime-snippet-timestamp
-Plugin helps adding timestamp to sublime snippet.
+Plugin to add timestamp to sublime snippet.
 
 ### TADA
 ![](demo.gif)
