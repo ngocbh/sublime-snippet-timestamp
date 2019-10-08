@@ -1,0 +1,17 @@
+<snippet>
+	<content><![CDATA[
+#  Filename : $TM_FILENAME
+#  Description : 
+#  Created by $TM_FULLNAME on ${DATE}
+
+if __name__ == '__main__':
+	${0:enter code here }
+
+
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>template_py</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.python</scope>
+	<description>Default Python Template</description>
+</snippet>

@@ -1,0 +1,15 @@
+[
+	{ "keys": ["ctrl+shift+n"], "command": "timestamp" },
+	{
+	  "keys": ["super+s"], 
+	  "command": "chain", 
+	  "args": {
+	    "commands": [
+	    	["updatetm"],
+	      	["save"]
+	      
+	    ]
+	  }
+	}
+	// { "keys": ["ctrl+shift+t"], "command": "terminal_view_open" }
+]

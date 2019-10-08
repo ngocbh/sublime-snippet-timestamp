@@ -1,0 +1,40 @@
+<plist version="1.0">
+<dict>
+    <key>name</key>
+    <string>Globals</string>
+    <key>scope</key>
+    <string />
+    <key>settings</key>
+    <dict>
+        <key>shellVariables</key>
+        <array>
+            <dict>
+                <key>name</key>
+                <string>TM_FULLNAME</string>
+                <key>value</key>
+                <string>ngocjr7</string>
+            </dict>
+            <dict>
+                <key>name</key>
+                <string>TM_EMAIL</string>
+                <key>value</key>
+                <string>ngocjr7@gmail.com</string>
+            </dict>
+            <dict>
+                <key>name</key>
+                <string>TM_ORGANIZATION_NAME</string>
+                <key>value</key>
+                <string>My Company</string>
+            </dict>
+            <dict>
+                <key>name</key>
+                <string>DATE</string>
+                <key>value</key>
+                <string>[2019-10-08 21:31]	</string>
+            </dict>
+        </array>
+    </dict>
+    <key>uuid</key>
+    <string>0ef292cd-943a-4fb0-b43d-65959c5e6b06</string>
+</dict>
+</plist>
